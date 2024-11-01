@@ -1,0 +1,5 @@
+= 1.1 = 
+*- Bug Fix
+
+= 1.0.0 = 
+*- Initial Version of Wp Newsletter Subscription

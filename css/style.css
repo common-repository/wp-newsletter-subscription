@@ -1,0 +1,55 @@
+.button.button-block {
+    margin-left: 24%;
+    text-align: center;
+  
+}
+.field-wrap > input {
+    width: 100%;
+}
+
+.field-wrap > label {
+    color: black;
+	position: absolute;
+  
+  pointer-events: none;
+  font-size: 14px;
+}
+
+
+
+
+
+.field-wrap >label .req {
+  margin: 2px;
+  color: #1ab188;
+}
+
+.field-wrap >label.active {
+  -webkit-transform: translateY(50px);
+          transform: translateY(50px);
+  left: 2px;
+  font-size: 14px;
+}
+.field-wrap >label.active .req {
+  opacity: 0;
+}
+
+.field-wrap >label.highlight {
+  color: #ffffff;
+}
+
+input, textarea {
+ 
+ 
+  
+}
+
+
+
+
+.field-wrap {
+  position: relative;
+  margin-bottom: 40px;
+}
+
+
